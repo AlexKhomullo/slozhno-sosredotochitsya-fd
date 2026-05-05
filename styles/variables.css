@@ -10,3 +10,7 @@
   --button-color-hover: rgba(255, 0, 112, 0.4);
   --main--title-color: #FF0070;
 }
+
+.special-dark-teg {
+  display: none;
+}

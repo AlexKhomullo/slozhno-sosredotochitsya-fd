@@ -16,3 +16,17 @@
   --button-color-hover: rgba(255, 0, 112, 0.4);
   --main--title-color: #FF0070;
 }
+
+.theme-dark .special-dark-teg {
+  display: flex;
+  opacity: 1;
+  visibility: visible;
+}
+
+@media (prefers-color-scheme: dark) {
+  .theme-auto .special-dark-teg {
+    display: flex;
+    opacity: 1;
+    visibility: visible;
+  }
+}

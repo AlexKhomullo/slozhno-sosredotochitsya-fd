@@ -28,11 +28,11 @@
 
 .special-dark-teg {
   position: absolute;
-  color: var(--button-color);
   opacity: 1;
   visibility: visible;
-  justify-self: end;
   display: flex;
+  color: var(--button-color);
+  justify-self: end;
   align-items: center;
   gap: 10px;
   font-size: 18px;

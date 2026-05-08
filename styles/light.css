@@ -21,14 +21,14 @@
   :root {
     --bg-image: url("../images/cover-image-light.png");
     --bg-color: #FFF1F7;
-  --title-color: #FFC2E6;
-  --accent-color: #FF8DCB;
-  --highlight-color: #FF8DCB;
-  --text-color: #353430;
-  --highlight-text-color: #353430;
-  --button-color: #353430;
-  --button-color-hover: rgb(53, 52, 48, 0.4);
-  --main--title-color: #353430;
+    --title-color: #FFC2E6;
+    --accent-color: #FF8DCB;
+    --highlight-color: #FF8DCB;
+    --text-color: #353430;
+    --highlight-text-color: #353430;
+    --button-color: #353430;
+    --button-color-hover: rgb(53, 52, 48, 0.4);
+    --main--title-color: #353430;
   }
 
   .theme-auto .special-dark-teg {
